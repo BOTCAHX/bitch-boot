@@ -3818,6 +3818,7 @@ Giliran = @${tty.player1.split('@')[0]}`
 * @Bryan Rafly
 * @Ma'Ruf
 * @Yuzzu Kamiyaka
+* @Tio Permana
 **/
 
 ///----------( Thx Dah Pake Scriptnya )----------\\\
